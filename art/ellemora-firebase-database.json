@@ -1,0 +1,36 @@
+{
+  "cart": {
+    "ESPZRbRn9gev9SwOVfV9vNViBWu1": [
+      {
+        "id": 1,
+        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+        "price": 109.95,
+        "quantity": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+      }
+    ],
+    "ua4iTlOahvPHIwo7Yc03MufPKhK2": {
+      "4": {
+        "id": 4,
+        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+        "price": 15.99,
+        "quantity": 2,
+        "title": "Mens Casual Slim Fit"
+      }
+    }
+  },
+  "users": {
+    "ESPZRbRn9gev9SwOVfV9vNViBWu1": {
+      "email": "xyz@gmail.com",
+      "mobile": "7788996655",
+      "name": "xyz",
+      "password": "123456"
+    },
+    "ua4iTlOahvPHIwo7Yc03MufPKhK2": {
+      "email": "abc@gmail.com",
+      "mobile": "9988776655",
+      "name": "abc",
+      "password": "123456"
+    }
+  }
+}
