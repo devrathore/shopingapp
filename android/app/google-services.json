@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "606046467024",
+    "firebase_url": "https://ellemora-7629c-default-rtdb.firebaseio.com",
+    "project_id": "ellemora-7629c",
+    "storage_bucket": "ellemora-7629c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606046467024:android:9b7e6a3771d03b5d2a7fd5",
+        "android_client_info": {
+          "package_name": "com.demo.ellemora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHUZ4L59b3PN1FhlYZbApJzKHBK0dS2zU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
