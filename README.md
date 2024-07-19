@@ -16,12 +16,14 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots
 
-<img src="/art/1.jpg" style="width:100%;" />
-<img src="/art/2.jpg" style="width:100%;" />
-<img src="/art/3.jpg" style="width:100%;" />
-<img src="/art/4.jpg" style="width:100%;" />
-<img src="/art/5.jpg" style="width:100%;" />
-<img src="/art/6.jpg" style="width:100%;" />
+<p align="center">
+  <img src="/art/1.jpg" style="width:16%;" />
+  <img src="/art/2.jpg" style="width:16%;" />
+  <img src="/art/3.jpg" style="width:16%;" />
+  <img src="/art/4.jpg" style="width:16%;" />
+  <img src="/art/5.jpg" style="width:16%;" />
+  <img src="/art/6.jpg" style="width:16%;" />
+</p>
 
 # shopingapp
 
