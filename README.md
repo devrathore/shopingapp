@@ -14,8 +14,16 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# shopingapp
+# Screenshots
 
+<img src="/art/1.jpg" style="width:100%;" />
+<img src="/art/2.jpg" style="width:100%;" />
+<img src="/art/3.jpg" style="width:100%;" />
+<img src="/art/4.jpg" style="width:100%;" />
+<img src="/art/5.jpg" style="width:100%;" />
+<img src="/art/6.jpg" style="width:100%;" />
+
+# shopingapp
 
 Flutter and Dart Version
 Flutter: 3.19.5
